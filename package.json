@@ -1,0 +1,34 @@
+{
+  "name": "ventaautos",
+  "version": "1.0.0",
+  "description": "venta de autos",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaespinol/Las7Maravillas.git"
+  },
+  "keywords": [
+    "autos",
+    "exoticos",
+    "exotico",
+    "venta"
+  ],
+  "author": "RODRIGO LEIJA NERIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaespinol/Las7Maravillas/issues"
+  },
+  "homepage": "https://github.com/jaespinol/Las7Maravillas#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "jquery": "^3.7.1",
+    "popper": "^1.0.1"
+  }
+}
